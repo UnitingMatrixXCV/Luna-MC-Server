@@ -1,0 +1,13 @@
+name = "Luna_Hang"
+author = "MatriXCV"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ccfd7118fede366e67f48d84cf08445dd2550c45588bedb61193da0c40e174ce"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
