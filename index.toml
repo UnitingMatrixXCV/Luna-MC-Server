@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
+hash = "9bb8dcf147bcf9d9ceb0d7e3d94d5bf5613d97b2050748aad2ce9885fadb9a5a"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "f7c48ebe8cddc5b30c3935c859ddb50de15ef76744e33da5407dae2714bdc257"
+hash = "f70d3e419a812284376a66f8e596b400ac687eff9975deccf9899f50d386dec6"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "cc244fd35012f737a2c4e08693e81a3d851d7d976a22baff4530af81acb8a6fa"
 metafile = true
 
 [[files]]
