@@ -51,6 +51,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -126,6 +131,11 @@ hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "63b9158ec8b7c088ddd36e2f27ffda28eb86ac18d38484136af58cc49912c639"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
